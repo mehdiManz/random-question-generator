@@ -1,14 +1,6 @@
 'use strict'
-const questions = [
-  "What's something that always makes you happy?",
-  "How do you like to spend your weekends?",
-  "What's a place you've always wanted to visit?",
-  "What's the best piece of advice you've ever received?",
-  "What's a skill you've always wanted to learn?",
-  "What's the most interesting thing you've read or seen lately?",
-  "What's your favorite thing about your hometown or current city?",
-  "How do you like to relax after a long day?",
-  "What's something that always makes you happy?",
+  const questions = [  
+"What's something that always makes you happy?",
 "How do you like to spend your weekends?",
 "What's a place you've always wanted to visit?",
 "What's the best piece of advice you've ever received?",
@@ -107,7 +99,8 @@ const questions = [
 "What are the benefits of a good night's sleep?",
 "What are some effective ways to overcome self-doubt?",
 "What is the best way to develop a growth mindset?",
-"What are the benefits of lifelong learning?"
+"What are the benefits of lifelong learning?",
+"How do you feel today?", "How did you learn English?", "How much time do you spend studying each day?", "How can you improve your English?", "How does English compare to other languages you know?", "How important is it to speak English?", "How do you pronounce this word?", "How do you spell this word?", "How often do you practice speaking English?", "How confident do you feel speaking English?", "How can you overcome language barriers?", "How do you approach learning a new word?", "How has learning English impacted your life?", "How do you stay motivated to learn English?", "How do you define fluency?", "How do you know when you're making progress in your English skills?", "How do you study grammar?", "How do you learn new vocabulary?", "How can you build your speaking confidence?", "How can you improve your listening skills?", "How can you improve your writing skills?", "How can you improve your reading skills?", "How do you choose which English resources to use?", "How do you set language learning goals?", "How can you practice English outside of the classroom?", "How do you know when you're ready to take an English proficiency exam?", "How do you prepare for an English proficiency exam?", "How do you deal with frustration when learning English?", "How can you practice English with native speakers?", "How do you learn English idioms and slang?", "How important is accent in English?", "How can you improve your English accent?", "How can you practice English pronunciation?", "How do you build your English vocabulary?", "How do you memorize new English words?", "How can you use English in your everyday life?", "How can you use technology to learn English?", "How can you learn English by watching TV shows and movies?", "How can you use music to learn English?", "How do you take notes when learning English?", "How do you review and revise what you've learned in English?", "How can you practice English by writing?", "How do you improve your English speaking speed?", "How can you use English podcasts to improve your skills?", "How do you deal with shyness or embarrassment when speaking English?", "How can you practice English with online language exchange partners?", "How do you learn English through immersion?", "How do you use English-language news sources to improve your language skills?", "How do you choose which English-language books to read for practice?", "How can you incorporate English learning into your daily routine?"
 ];
 
 function generateRandomQuestion() {

@@ -108,10 +108,7 @@ function generateRandomQuestion() {
   const questionElement = document.getElementById('question');
   questionElement.textContent = question;
 
-  /// play sound
-  const sound = new Audio('voice-changer-2023-04-29-16-17.mp3');
-
-  sound.play();
+  
 }
 
 
